@@ -3,6 +3,6 @@
 # GAM100 Untitled Blcok Game - UI/UX, serialization
 # FYP MERTS
 # IWP CATASTROPHE
-# SP4 Roguelike Dungeon Crawler
+# SP4 Roguelike Dungeon Crawler - multiplayer
 # Android Studio Simple Runner game 
-# SP3 2.5D Tower Defense game
+# SP3 2.5D Tower Defense game - pathfinding, UI/UX

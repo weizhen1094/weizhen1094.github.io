@@ -1,0 +1,4 @@
+resolution: 1366x768
+master volume: 60
+bgm volume: 100
+sfx volume: 100

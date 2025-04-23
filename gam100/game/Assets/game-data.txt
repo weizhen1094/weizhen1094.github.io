@@ -1,9 +1,0 @@
-level: 0 time: 0 m 0 s
-level: 0 time: 0 m 0 s
-level: 0 time: 0 m 0 s
-level: 0 time: 0 m 0 s
-level: 0 time: 0 m 0 s
-level: 0 time: 0 m 0 s
-level: 0 time: 0 m 0 s
-level: 0 time: 0 m 0 s
-level: 0 time: 0 m 0 s

@@ -1,0 +1,7 @@
+The game is a single player tower defense game where the goal is to defend the objective from waves of enemies. 
+Made using Visual Studio 2019 in C++ and OpenGL graphics API.
+My contribution to the project:
+GUI including Options Menu and Win/Lose screen
+A* pathfinding algorithm
+Camera movement
+	

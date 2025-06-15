@@ -1,5 +1,82 @@
 body {
-  background: #53161D;
+  background: #FFFBF0;
   margin: 0;
   padding: 0;
+}
+
+#nav ul
+{
+    padding: 0;
+    list-style: none;
+    height: 64px;   
+    float: left;
+}
+    
+#nav li
+{
+    display: inline;
+    height: 64px;
+    width: 64px;
+    float: left;
+}
+
+#cookie
+{
+    height: 64px;
+    width: 64px;
+    background: url("./projects/cookie-clicker/cookies.png") 0 0;
+}
+
+#cookie1
+{
+    left: 64px;
+    width: 64px;
+    background: url("./projects/cookie-clicker/cookies.png") -64px 0;
+}
+
+#cookie2
+{
+    height: 64px;
+    left: 128px;
+    width: 64px;
+    background: url("./projects/cookie-clicker/cookies.png") -128px 0;
+}
+
+#cookie3
+{
+    height: 64px;
+    left: 192px;
+    width: 64px;
+    background: url("./projects/cookie-clicker/cookies.png") -192px 0;
+}
+
+#cookie4
+{
+    height: 128px;
+    width: 64px;
+    background: url("./projects/cookie-clicker/cookies.png") 0 -64px;
+}
+
+#cookie5
+{
+    height: 128px;
+    left: 64px;
+    width: 64px;
+    background: url("./projects/cookie-clicker/cookies.png") -64px -64px;
+}
+
+#cookie6
+{
+    height: 128px;
+    left: 128px;
+    width: 64px;
+    background: url("./projects/cookie-clicker/cookies.png") -128px -64px;
+}
+
+#cookie7
+{
+    height: 128px;
+    left: 192px;
+    width: 64px;
+    background: url("./projects/cookie-clicker/cookies.png") -192px -64px;
 }

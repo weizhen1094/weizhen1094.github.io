@@ -51,3 +51,22 @@ footer
 #cookie5 { background-position: -64px 64px; }
 #cookie6 { background-position: -128px 64px; }
 #cookie7 { background-position: -192px 64px; }
+
+#not-cookie,
+#not-cookie1,
+#not-cookie2
+{
+    border: none;
+    background: none;
+    width: 64px;
+    height: 64px;
+    background-image: url("./projects/cookie-clicker/not-cookies.png");
+}
+#not-cookie { background-position: 0 0; }
+#not-cookie1 { background-position: -64px 0; }
+#not-cookie2 { background-position: -128px 0; }
+
+#score-text
+{
+    font-family: "Barrio", system-ui;
+}

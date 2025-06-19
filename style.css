@@ -77,6 +77,6 @@ footer
     z-index: 10;
     bottom: 0;
     left: 0;
-    width: 64px;
-    height: 64px;
+    width: auto;
+    height: auto;
 }

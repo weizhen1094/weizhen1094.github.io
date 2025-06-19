@@ -14,17 +14,20 @@ footer
 {
     position: fixed;
     display: flex;
+    align-items:center;
+    flex-direction: column;
     bottom: 0;
     width: 100%;
     height: auto;
 }
 #cookie-bowl
 {
-    display: fixed;
-    margin-left: auto;
-    margin-right: auto;
     width: 25%;
   	height: auto;
+}
+#total-score-text
+{
+    font-family: Consolas;
 }
 
 #cookie,
@@ -69,4 +72,11 @@ footer
 #score-text
 {
     font-family: "Barrio", system-ui;
+    opacity: 0;
+    position: relative;
+    z-index: 10;
+    bottom: 0;
+    left: 0;
+    width: 64px;
+    height: 64px;
 }

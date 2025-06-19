@@ -43,7 +43,7 @@ footer
     background-image: url("./projects/cookie-clicker/cookies.png");
 }
 
-#cookie { background-position: 0 0; }
+#cookie  { background-position: 0 0; }
 #cookie1 { background-position: -64px 0; }
 #cookie2 { background-position: -128px 0; }
 #cookie3 { background-position: -192px 0; }
@@ -62,7 +62,7 @@ footer
     height: 64px;
     background-image: url("./projects/cookie-clicker/not-cookies.png");
 }
-#not-cookie { background-position: 0 0; }
+#not-cookie  { background-position: 0 0; }
 #not-cookie1 { background-position: -64px 0; }
 #not-cookie2 { background-position: -128px 0; }
 

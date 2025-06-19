@@ -60,7 +60,7 @@ footer
     background: none;
     width: 64px;
     height: 64px;
-    background-image: url("./projects/cookie-clicker/not-cookies.png");
+    background-image: url("./projects/cookie-clicker/cookies.png");
 }
 #not-cookie  { background-position: 0 0; }
 #not-cookie1 { background-position: -64px 0; }

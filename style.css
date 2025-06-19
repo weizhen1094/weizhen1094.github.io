@@ -41,8 +41,8 @@ footer
 {
     border: none;
     background: none;
-    width: 5%;
-    height: auto;
+    width: auto;
+    height: 7%;
     background-image: url("./projects/cookie-clicker/cookies.png");
 }
 

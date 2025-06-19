@@ -1,82 +1,53 @@
-body {
-  background: #FFFBF0;
-  margin: 0;
-  padding: 0;
+.barrio-regular 
+{
+    font-family: "Barrio", system-ui;
+    font-weight: 400;
+    font-style: normal;
 }
 
-#nav ul
+body 
 {
-    padding: 0;
-    list-style: none;
-    height: 64px;   
-    float: left;
-}
-    
-#nav li
-{
-    display: inline;
-    height: 64px;
-    width: 64px;
-    float: left;
+    background: #FFFBF0;
 }
 
-#cookie
+footer 
 {
-    height: 64px;
-    width: 64px;
-    background: url("./projects/cookie-clicker/cookies.png") 0 0;
+    position: fixed;
+    display: flex;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+}
+#cookie-bowl
+{
+    display: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  	height: auto;
 }
 
-#cookie1
-{
-    left: 64px;
-    width: 64px;
-    background: url("./projects/cookie-clicker/cookies.png") -64px 0;
-}
-
-#cookie2
-{
-    height: 64px;
-    left: 128px;
-    width: 64px;
-    background: url("./projects/cookie-clicker/cookies.png") -128px 0;
-}
-
-#cookie3
-{
-    height: 64px;
-    left: 192px;
-    width: 64px;
-    background: url("./projects/cookie-clicker/cookies.png") -192px 0;
-}
-
-#cookie4
-{
-    height: 128px;
-    width: 64px;
-    background: url("./projects/cookie-clicker/cookies.png") 0 -64px;
-}
-
-#cookie5
-{
-    height: 128px;
-    left: 64px;
-    width: 64px;
-    background: url("./projects/cookie-clicker/cookies.png") -64px -64px;
-}
-
-#cookie6
-{
-    height: 128px;
-    left: 128px;
-    width: 64px;
-    background: url("./projects/cookie-clicker/cookies.png") -128px -64px;
-}
-
+#cookie,
+#cookie1,
+#cookie2,
+#cookie3,
+#cookie4,
+#cookie5,
+#cookie6,
 #cookie7
 {
-    height: 128px;
-    left: 192px;
+    border: none;
+    background: none;
     width: 64px;
-    background: url("./projects/cookie-clicker/cookies.png") -192px -64px;
+    height: 64px;
+    background-image: url("./projects/cookie-clicker/cookies.png");
 }
+
+#cookie { background-position: 0 0; }
+#cookie1 { background-position: -64px 0; }
+#cookie2 { background-position: -128px 0; }
+#cookie3 { background-position: -192px 0; }
+#cookie4 { background-position: 0 64px; }
+#cookie5 { background-position: -64px 64px; }
+#cookie6 { background-position: -128px 64px; }
+#cookie7 { background-position: -192px 64px; }

@@ -1,0 +1,33 @@
+Game Description: 
+A virtual reality, real-time multiplayer, account-based, personalised training system.
+Made using Unity Engine for MSC Maritime Digital Challenge 2021 Kanda Challenge Statement(Awarded Champion) https://www.youtube.com/watch?v=2jRoh6NGUMA
+
+Read More(Game Concept):
+Perform procedures onboard the LNG ship, experience random hazard events while performing tasks.
+Genre: Serious Gaming, VR Simulation
+Multiplayer(Cooperative Play): 1-3 players
+Platform: Oculus Quest 2
+Target Audience: Seafarers on LNG vessel operating the FGSS
+Unique Selling Points: User Profile, Grading System, Refresher Courses
+
+My contributions:
+Photon Matchmaking Setup
+Player Prefab (except voice chat)
+Movement
+Whalepad (exception of tasks, account and mute)
+Control Pop Up
+Playfab Refresher Email
+Lighting
+Reporting Room
+- Punch Card
+Briefing Room
+- Colour Selection
+- Tool Rack
+- Mirror
+Engine Room
+- Lever Interaction
+- Fire Extinguisher
+- Fire Hazard
+- Alarm Hazard
+
+Tags: Unity Engine, Photon PUN2, Multiplayer, Playfab, Virtual Reality

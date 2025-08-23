@@ -1,7 +1,16 @@
-The game is a single player tower defense game where the goal is to defend the objective from waves of enemies. 
-Made using Visual Studio 2019 in C++ and OpenGL graphics API.
-My contribution to the project:
+Game Description: 
+Single player tower defense game where the goal is to defend the objective from waves of enemies. 
+Made using Visual Studio 2019 in C++ and OpenGL graphics API. 
+
+Read More(Game Concept):
+Game takes place inside a patient who has been recently infected by viruses. 
+The player has to prevent viruses from entering arteries and further spreading throughout the body. 
+Place down towers and blocks to defeat and reroute the virus and restore the patient’s health.
+Dependencies: glew, glfw, soil, freetype, irrKlang.
+
+My contributions:
 GUI including Options Menu and Win/Lose screen
 A* pathfinding algorithm
 Camera movement
-	
+
+Tags: C++, OpenGL, Pathfinding

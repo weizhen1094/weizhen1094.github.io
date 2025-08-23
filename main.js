@@ -1,8 +1,10 @@
-var totalScore = 0;
+var currScore = 0;
+var health = 5;
 
 function getRndInteger(min, max) 
 { return Math.floor(Math.random() * (max - min) ) + min; }
 
+// on click function for cookie/button
 function get_cookie(isCookie) 
 {
     // display score
@@ -16,6 +18,18 @@ function get_cookie(isCookie)
     document.body.appendChild(score);
     //setTimeout(function () { document.body.removeChild(score); }, 650)
     // update total score
-    totalScore = isCookie ? totalScore + 1 : totalScore - 1;
-    document.getElementById('total-score-text').innerHTML = 'total score: ' + totalScore.toString();
+    currScore = isCookie ? currScore + 1 : currScore - 1;
+    document.getElementById('curr-score-text').innerHTML = 'score: ' + currScore.toString();
 }
+
+function spawn_cookies()
+{
+
+}
+
+// on click function to start game
+function start_game()
+{
+
+}
+

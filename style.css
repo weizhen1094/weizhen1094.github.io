@@ -25,7 +25,7 @@ footer
     width: 25%;
   	height: auto;
 }
-#total-score-text
+#curr-score-text
 {
     font-family: Consolas;
 }

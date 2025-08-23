@@ -1,4 +1,4 @@
-Coughing Dance Mania by team 8 - SP3 2020
+Coughing Dance Mania by team 8 - NYP Studio Project 3 2020
 Koh Kai Yang 
 Tan Wei Zhen 
 Toh Lay Fung, Phoebe 

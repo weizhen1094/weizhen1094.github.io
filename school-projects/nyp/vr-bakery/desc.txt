@@ -1,0 +1,8 @@
+Game Description: 
+Simple virtual reality bakery simulation made using Unity Engine for Google Cardboard.
+
+Tags: Unity Engine, Virtual Reality
+
+Date of Completion: July 2021
+
+Duration: 2 weeks(alongside other modules)

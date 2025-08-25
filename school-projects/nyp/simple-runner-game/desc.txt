@@ -1,0 +1,11 @@
+Game Description: 
+Simple runner game with quiz, leaderboard and facebook integration made using Android Studio.
+
+Read More:
+Answer simple multiple choice questions relating to environmental topics(e.g. recycle, reduce, reuse) in classic mode or play the endless runner mode.
+
+Tags: Android Studio, Mobile
+
+Date of Completion: February 2021
+
+Duration: 11 weeks(alongside other modules)

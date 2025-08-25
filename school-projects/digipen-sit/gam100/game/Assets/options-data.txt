@@ -1,4 +1,4 @@
-resolution: 1280x720
-master volume: 0
+resolution: 1920x1080
+master volume: 15
 bgm volume: 100
 sfx volume: 100

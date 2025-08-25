@@ -1,7 +1,7 @@
 Game Description: 
 2D top down roguelike dungeon crawler with singleplayer and cooperative multiplayer(1-4 players) modes, 4 different characters(rogue, barbarian, fighter, wizard). Made using Unity Engine.
 
-Read More(Game Concept):
+Read More:
 The land has been taken over by the Dark Lord of the dragons, Emmapurror. It is up to you to stop her. Travel the maze to reach the end and rejoice alone or with teammates.
 Theme: Medieval, Fantasy, Has Dragons
 Engine: Unity2D (version 2020.1.7f)
@@ -14,3 +14,8 @@ Mobile
 Multiplayer
 
 Tags: Unity Engine, Photon PUN2, Multiplayer, Mobile
+
+Date of Completion: March 2021
+
+Duration: 2 weeks
+

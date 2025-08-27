@@ -7,7 +7,11 @@ Hammy was living together with a Witch, and they were really good friends. Or so
 My contributions:
 Game Engine Architecture & Audio System Programmer
 
-Engine Features:
+Engine Features: 
+ECS
+Entity tree
+Graph
+Undo Redo
 
 Tags: C++, OpenGL, FMOD
 

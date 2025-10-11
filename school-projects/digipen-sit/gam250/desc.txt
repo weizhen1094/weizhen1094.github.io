@@ -9,8 +9,8 @@ Game Engine Architecture & Audio System Programmer
 
 Engine Features: 
 ECS
-Entity tree
-Graph
+Visual Profiler
+Audio System, spatial audio
 Undo Redo
 
 Tags: C++, OpenGL, FMOD

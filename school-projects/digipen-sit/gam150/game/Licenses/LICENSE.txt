@@ -1,0 +1,56 @@
+================================================================================
+*name of asset*
+
+Copyright (c) [Year] [Author/Owner]
+
+*license info*
+================================================================================
+breakables folder
+
+Copyright (c) [2016] [Kenney.nl]
+
+This work is licensed under the Creative Commons Zero v1.0 Universal license.
+To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/
+================================================================================
+enemy folder
+
+Copyright (c) [2020] [MedicineStorm]
+
+This work is licensed under the Creative Commons Zero v1.0 Universal license.
+To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/
+================================================================================
+scientists_howtoplay.png
+
+Copyright (c) [2020] [MedicineStorm]
+
+This work is licensed under the Creative Commons Zero v1.0 Universal license.
+To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/
+================================================================================
+oldpage.png
+
+Copyright (c) [2020] [vusos]
+
+This work is licensed under the Creative Commons Zero v1.0 Universal license.
+To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/
+================================================================================
+paw-print.png
+
+Copyright (c) [2020] [OpenGameArt.org]
+
+This work is licensed under the Creative Commons Zero v1.0 Universal license.
+To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/
+================================================================================
+Windows_Screen.png
+
+Copyright (c) [2019] [retrogemn_]
+
+This work is licensed under the Creative Commons Zero v1.0 Universal license.
+To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/
+================================================================================
+Kenney Fonts
+
+Copyright (c) [2014] [Kenney.nl]
+
+This work is licensed under the Creative Commons Zero v1.0 Universal license.
+To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/
+================================================================================

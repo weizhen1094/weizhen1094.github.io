@@ -1,5 +1,5 @@
 Game Description: 
-2D Platformer where you play as a hamster trying to escape a witch’s house with assistance from its magic pencil. Physics based platforming game where you navigating through levels and puzzles in a zorb ball https://games.digipen.edu/games/house-houdini
+2D Platformer where you play as a hamster trying to escape a witch's house with assistance from its magic pencil. Physics based platforming game where you navigating through levels and puzzles in a zorb ball https://games.digipen.edu/games/house-houdini
 
 Read More:
 Hammy was living together with a Witch, and they were really good friends. Or so he thought. The Witch has been raising Hammy to use him as a potion ingredient. Feeling betrayed, Hammy picks up his magic pencil and begins to escape from the Witch's house. House Houdini is a 2D platformer where the player plays as Hammy who is trying to escape from the Witch's house. With the aid of three different kinds of potions in the map, avoid obstacles and death zones and clear all three levels to escape!

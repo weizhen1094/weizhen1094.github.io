@@ -1,0 +1,18 @@
+Game Description: 
+2D top-down, 2-player local multiplayer escape room game. Made using Alpha Engine Framework.
+
+Read More:
+Players take on the roles of two cats, Bob and Cob, test subjects at a research facility that have obtained hyper-intelligence. Refer to the task list and complete co-op mini-games around the map! Avoid getting caught by enemies. Break your partner out of jail by completing the jail minigame. Break objects in the facility to gain bonus points.
+Win Condition:
+Complete all tasks on the task list and head to the exit (brown doors)
+Lose Condition:
+Both players get caught or total player lives go down to 0
+
+My contributions:
+Procedural Map Generation using Binary Space Partitioning
+
+Tags: C++
+
+Date of Completion: March 2023
+
+Duration: 3 months(alongside other modules)

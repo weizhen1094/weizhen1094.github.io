@@ -11,4 +11,4 @@ Tags: C
 
 Date of Completion: November 2022
 
-Duration: 6 months(alongside other modules)
+Duration: 3 months(alongside other modules)
